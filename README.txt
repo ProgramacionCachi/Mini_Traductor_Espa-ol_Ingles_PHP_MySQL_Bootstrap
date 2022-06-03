@@ -1,0 +1,3 @@
+-No olvides Suscribirte a Programación con Cachi.
+-Da Like a este vídeo y espero que te sirva este mini traductor realizado con PHP, MySQL y Bootstrap.
+-https://www.youtube.com/channel/UCH_e2jYPcA4Oq32f2c-796A
